@@ -8,7 +8,7 @@ import ctypes
 import zlib
 # 常量定义
 SALT = b"zadf%231d34kjjf"
-VERSION = b"14.6"
+VERSION = b"14.10"
 INITIAL_KEY = 90  # 0x5A
 KEY_MODIFIER = 53
 

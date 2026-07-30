@@ -1,20 +1,12 @@
-# FreeFileSync Crack
+# FreeFileSync KeyGen
 
-* A patch for activate FreeFileSync Donation version.
+* A keygen for activate FreeFileSync Donation version.
 
 ## Usage
 
-* Download the patch from release, and put it into the FreeFileSync installation directory.
+* Run `keygen.py` on your local machine, and it will generate `Registered.dat` and `Install.dat` files in the same folder.
 
-## Limitations
-
-* The patch only works for FreeFileSync x64 version.
-
-* If you encountered `Unable to open Registered.dat` error, simply ignore it.
-
-* If the program doesn't run, delete `Registered.dat` and `Resources\Registered.dat` in program installation folder.
-
-* The automatic update function will be unable to use when the patch is applied, delete `Bin\version.dll` before performing an update.
+* Put `Install.dat` to `%ProgramData%\FreeFileSync\Install.dat` and `Registered.dat` to `<FreeFileSync Install Dir>\Resources\Registered.dat` to activate FreeFileSync Donation version.
 
 ## Disclaimer
 
